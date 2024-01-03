@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Top Category",
+        "children": [
+            { "name": "Sub Category 1" },
+            { "name": "Sub Category 2" },
+            { "name": "Sub Category 3" }
+        ]
+    },
+    {
+        "name": "Top Category 2",
+        "children": [
+            { "name": "Sub Category 4" },
+            { "name": "Sub Category 5" },
+            { "name": "Sub Category 6" }
+        ]
+    }
+]
